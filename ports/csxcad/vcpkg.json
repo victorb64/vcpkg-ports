@@ -1,0 +1,6 @@
+{
+    "name": "csxcad",
+    "version": "0.6.2",
+    "description": "A C++ library to describe geometrical objects and their physical or non-physical properties.",
+    "homepage": "https://github.com/thliebig/CSXCAD"
+  }
